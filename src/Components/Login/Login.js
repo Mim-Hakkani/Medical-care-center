@@ -20,7 +20,7 @@ const Login = () => {
         })
     }
     return (
-        <div className="w-50 border border-1 border-muted p-5 d-block m-auto my-5">
+        <div className="w-75 border border-1 border-muted p-5 d-block m-auto my-5">
 
             <div className="authentication-site">
                 <h1 className="py-2 text-center ">Sign In</h1>

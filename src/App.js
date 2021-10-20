@@ -42,7 +42,7 @@ function App() {
                 </Route>
 
                 <Route exact path="/gallery">
-                <Banner></Banner>
+                  <Gallery></Gallery>
                 </Route>
 
                 <Route exact path="/doctor">
