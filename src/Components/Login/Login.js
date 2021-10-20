@@ -20,36 +20,44 @@ const Login = () => {
         })
     }
     return (
-        <div className="w-50 border border-1 border-muted p-5 d-block m-auto">
+        <div className="w-50 border border-1 border-muted p-5 d-block m-auto my-5">
 
             <div className="authentication-site">
                 <h1 className="py-2 text-center ">Sign In</h1>
 
                 <form onSubmit={handleSubmit(onSubmit)}>
       
-                <input type="email" defaultValue="" {...register("email")} />
+                <input type="email" defaultValue="" {...register("email")} 
+                placeholder="Enter Email"
+                className="w-100 my-2 py-2 border border-muted"
+                
+                
+                /><br/>
       
-                <input type="password" {...register("password", { required: true })} />
+                <input type="password" {...register("password", { required: true })} 
+                placeholder="Enter Password"
+                className="w-100 my-2 py-2 border border-muted"
+                /><br/>
 
                 {errors.exampleRequired && <span>This field is required</span>}
-      
-                <input type="submit" />
+                        
+                <Link to="/registration" className="float-start text-info">Create an account </Link>
+
+                <Button onClick={handleGoogleSignIn} variant="primary" type="submit" className="float-end">
+                  Submit
+                </Button>
+               
                </form>
 
                     
-                   
-                   <Link to="/registration" className="float-start text-info">Create an account </Link>
-
-                   <Button onClick={handleGoogleSignIn} variant="primary" type="submit" className="float-end">
-                      Submit
-                  </Button>
+ 
                 
             </div>
             
-            <div  className="pt-5 m-auto text-center">
+            <div  className="pt-5 m-auto text-center mt-5">
                 <h4>Sign in With Another Account </h4>
-                <button onClick={handleGoogleSignIn} className ="btn btn-primary">Google Sign in</button>
-                <button className ="btn btn-primary m-2">GitHub Sign in</button>
+                <button onClick={handleGoogleSignIn} className ="btn btn-primary"><i className="fab fa-google"></i> Google Sign in</button>
+                {/* <button className ="btn btn-primary m-2">GitHub Sign in</button> */}
              </div>
             
           
