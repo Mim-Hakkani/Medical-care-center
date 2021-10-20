@@ -1,6 +1,11 @@
 .social li{
     list-style: none; 
-    display: inline;
+    display: inline-block;
     margin: 0px 7px;
 
+}
+.social li a{
+    color: rgb(90, 110, 223);
+    display: block;
+    text-decoration: none;
 }

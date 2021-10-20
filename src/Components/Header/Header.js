@@ -36,12 +36,12 @@ const Header = () => {
 
                <Col lg={4} md={4} sm={12} sx={12}>
                  <div className="social">
-                   <li><i className="fab fa-facebook"></i></li>
-                   <li><i className="fab fa-twitter"></i></li>
-                   <li><i className="fab fa-linkedin"></i></li>
-                   <li><i className="fab fa-google"></i></li>
-                   <li><i className="fab fa-viber"></i></li>
-                   <li><i className="fab fa-skype"></i></li>
+                   <li><a href="https://www.facebook.com" target="_blank" rel="social"><i className="fab fa-facebook"></i> </a> </li>
+                   <li><a href="https://www.twitter.com" target="_blank" rel="social"><i className="fab fa-twitter"></i> </a> </li>
+                   <li><a href="https://www.linkedin.com" target="_blank" rel="social"><i className="fab fa-linkedin"></i> </a> </li>
+                   <li><a href="https://www.google.com" target="_blank" rel="social-icon"><i className="fab fa-google"></i> </a> </li>
+                   <li><a href="https://www.viber.com" target="_blank" rel="social-icon"><i className="fab fa-viber"></i> </a> </li>
+                   <li><a href="https://www.skype.com" target="_blank" rel="social-icon"><i className="fab fa-skype"></i> </a> </li>
                  </div>
                </Col>
              </Row>
