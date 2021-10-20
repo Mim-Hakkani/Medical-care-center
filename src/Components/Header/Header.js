@@ -15,13 +15,13 @@ const Header = () => {
            <Container>
              <Row > 
 
-               <Col lg={8} md={8} sm={12} sx={12}>
+               <Col lg={8} md={8} sm={12} xs={12}>
                  
                   
-                    <div className="top-header-left d-inline-flex">
+                    <div className="top-header-left d-lg-inline-flex d-md-inline-flex">
 
                         <div className="cell-number">
-                            <i className="fas fa-phone-volume"></i>
+                            <i className="fas fa-phone-volume mx-3"></i>
                             (+880) 1819-108-86
                         </div>
 
@@ -34,7 +34,7 @@ const Header = () => {
                   
                </Col>
 
-               <Col lg={4} md={4} sm={12} sx={12}>
+               <Col lg={4} md={4} sm={12} xs={12}>
                  <div className="social">
                    <li><a href="https://www.facebook.com" target="_blank" rel="social"><i className="fab fa-facebook"></i> </a> </li>
                    <li><a href="https://www.twitter.com" target="_blank" rel="social"><i className="fab fa-twitter"></i> </a> </li>

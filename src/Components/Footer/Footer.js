@@ -8,15 +8,15 @@ const Footer = () => {
            <div className="top-footer ">
                <Container>
                    <Row>
-                       <Col lg={3} md={3} sm={6} xs={12}>
-                          <div className="footer-1">
+                       <Col lg={3} md={3} sm={12} xs={12}>
+                          <div className="footer-1 m-sm-auto m-md-auto text-lg-start text-md-start">
                               <img src ={footer_img} alt=""></img>
                               <p className="text-secondary text-align-justify mt-3">The concept of expertise is widely embraced but poorly defined in surgery. Dictionary trusted charity providing a variety of support services to pharmacists.</p>
                           </div>
                         </Col>
 
-                        <Col lg={3} md={3} sm={6} xs={12}>
-                            <div className="footer-2">
+                        <Col lg={3} md={3} sm={12} xs={12}>
+                            <div className="footer-2 m-sm-auto m-md-auto text-lg-start text-md-start">
                                 <h2>Our Services</h2>
                                 <p>Blood Bank</p>
                                 <p>Emergency Ambulance</p>
@@ -26,8 +26,8 @@ const Footer = () => {
                             </div>
                         </Col>
 
-                        <Col lg={3} md={3} sm={6} xs={12}>
-                            <div className="footer-3">
+                        <Col lg={3} md={3} sm={12} xs={12}>
+                            <div className="footer-3 m-sm-auto m-md-auto text-lg-start text-md-start">
                                 <h2>Our Doctors</h2>
                                 <p>Dr.Golam Hakkani</p>
                                 <p>Dr.Rakib Hasan</p>
@@ -37,8 +37,8 @@ const Footer = () => {
                             </div>
                         </Col>
                        
-                        <Col lg={3} md={3} sm={6} xs={12}>
-                            <div className="footer-4">
+                        <Col lg={3} md={3} sm={12} xs={12}>
+                            <div className="footer-4 m-sm-auto m-md-auto text-lg-start text-md-start">
                                 <h2>Opens Time</h2>
                                 <p>Sat:10.00 am - 4.00pm</p>
                                 <p>Fri: 10.00 am - 2.00 pm</p>
