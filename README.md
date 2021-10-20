@@ -1,6 +1,6 @@
 # Hakkani Medical center 
 
-This project was bootstrapped with [Live Link](https://hakkani-medical-center.web.app/).
+This project was bootstrapped with
 Live Link :https://hakkani-medical-center.web.app/
 ## Our Services 
 
