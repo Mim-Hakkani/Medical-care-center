@@ -1,0 +1,65 @@
+ [
+    {
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVIMnpj33qK79BM-WbfFHXKarr1l4jkkU7Ng&usqp=CAU",
+        "name":"Blood Bank",
+        "desc":"Blood component preparation lab is a state of the art lab that is well equipped with the  trusted charity providing a variety of support services to pharmacists.",
+        "id" :"1"
+
+    },
+    {
+        "img" : "https://cdn.cfr.org/sites/default/files/styles/immersive_image_3_2_desktop_2x/public/image/2020/04/Coronavirus_healthcare.jpg",
+        "name":"Cancer Care",
+        "desc":"At Rush, we understand that a cancer diagnosis affects every aspect of your life,  trusted charity providing a variety of support services to pharmacists. ",
+        "id" :"2"
+
+    },
+    {
+        "img" : "https://www.taxscan.in/wp-content/uploads/2018/05/Ambulance-Services-Taxscan.jpg",
+        "name":"Emergency Ambulance",
+        "desc":"Ambulance Dubai and Discover Millions of Results at BlendedSearch.com. Discover us now! trusted charity providing a variety of support services to pharmacists. ",
+        "id":"3"
+
+    },
+    {
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/2/2e/Cardiac_surgery_operating_room.jpg",
+        "name":"Expert Sergion",
+        "desc":"The concept of expertise is widely embraced but poorly defined in surgery. Dictionary  trusted charity providing a variety of support services to pharmacists.",
+        "id":"4"
+
+    },
+    {
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSah0MqhWz-IZpuSVsOnw0TmEvibJlD712LQ&usqp=CAU",
+        "name":"Pregnent Care",
+        "desc":"Pregnancy is counted as 40 weeks, starting from the first day of the mother’s last trusted charity providing a variety of support services to pharmacists. ",
+        "id":"5"
+
+    },
+    {
+        "img" : "https://www.wphealthcarenews.com/wp-content/uploads/2019/09/Elderly-Care-Issues-10-Challenges-to-Elderly-Care-in-the-US-copy.jpg",
+        "name":"Old Care",
+        "desc":"Elderly care, or simply eldercare, serves the needs and requirements of senior citizens.  home care trusted charity providing a variety of support services to pharmacists.",
+        "id":"6"
+
+    },
+    {
+        "img" : "https://thumbs.dreamstime.com/b/doctors-running-emergency-team-nurses-down-hospital-hallway-situation-82300437.jpg",
+        "name":"Emergency Doctors",
+        "desc":"Emergency medicine doctors primarily work in the emergency departments, or emergency “rooms. trusted charity providing a variety of support services to pharmacists.",
+        "id":"7"
+
+    },
+    {
+        "img" : "https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/522/2020/09/04225115/iStock-1209968955.jpg",
+        "name":"Lab Test Reports",
+        "desc":"Trace metal analysis service in cell culture media, water and other liquids. trusted charity providing a variety of support services to pharmacists.  ",
+        "id":"8"
+
+    },
+    {
+        "img" : "https://www.news-medical.net/image.axd?picture=2021%2F6%2Fshutterstock_1928863685.jpg",
+        "name":"Pharmacy Suport",
+        "desc":"Pharmacist Support is an independent, trusted charity providing a variety of support services to pharmacists. trusted charity providing a variety of support services to pharmacists.",
+        "id":"9"
+
+    }
+]

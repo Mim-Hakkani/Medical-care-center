@@ -1,0 +1,37 @@
+[
+    {
+        "id":"1",
+        "title":"Cancer Oncology",
+        "img":"http://asianitbd.com/wp/hopemedical/wp-content/uploads/2016/10/team-1.jpg"
+        
+    },    {
+        "id":"2",
+        "title":"Dental Surgery",
+        "img":"http://asianitbd.com/wp/hopemedical/wp-content/uploads/2016/10/team-2.jpg"
+        
+    },   
+     {
+        "id":"3",
+        "title":"Diagnose & Research",
+        "img":"http://asianitbd.com/wp/hopemedical/wp-content/uploads/2016/10/team-3.jpg"
+        
+    },  
+      {
+        "id":"4",
+        "title":"Drug / Medicine",
+        "img":"http://asianitbd.com/wp/hopemedical/wp-content/uploads/2016/10/team-4.jpg"
+        
+    }, 
+       {
+        "id":"5",
+        "title":"Endocrinology",
+        "img":"https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRvY3RvcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        
+    },
+    {
+        "id":"6",
+        "title":"Pregnancy & Births",
+        "img":"https://images.unsplash.com/photo-1591604021695-0c69b7c05981?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGRvY3RvcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        
+    }
+]
